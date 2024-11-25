@@ -8,11 +8,12 @@ notebook : https://colab.research.google.com/drive/1fBBkJ4eJJT1z69YfhOREValuYC-f
 
 🗒️Variables
 
-TransactionNo : nomor unik untuk setiap transaksi
-Items : produk yang dibeli
-DateTime : tanggal dan waktu transaksi
-Daypart : bagian dari hari ketika transaksi dilakukan (morning, afternoon, evening, night)
-DayType : mengklasifikasikan apakah transaksi dilakukan di akhir pekan atau hari kerja
+- TransactionNo : nomor unik untuk setiap transaksi
+- Items : produk yang dibeli
+- DateTime : tanggal dan waktu transaksi
+- Daypart : bagian dari hari ketika transaksi dilakukan (morning, afternoon, evening, night)
+- DayType : mengklasifikasikan apakah transaksi dilakukan di akhir pekan atau hari kerja
+
 
 Content🗂️🗒️
 
